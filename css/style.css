@@ -22,3 +22,34 @@ header{
 color:rgb(22, 25, 182) ;}
 
 .article-image figcaption {font-size: 12px;}
+
+.highlight {font: weight 400px;
+    background-color: yellow ;}
+
+
+    /*table*/
+    .article-table{border-collapse:collapse ;}
+    .article-table th {text-align: left;}
+    .article-table thead {background-color: rgb(7, 103, 239);
+    color: white;}
+
+    .large-col {width: 50%;}
+    .odd-row {background-color: lightblue;}
+
+    /*sezione suggerimenti*/
+    .monitor {width: 200px;
+    height: 200px; background-image: url(../img/img/monitor.jpg); 
+color: white;}
+
+.monitor a {color: white;
+text-decoration: none;}
+
+.graph {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/img/graph.jpg);
+    color: white;}
+
+.graph a {color: white;
+text-decoration: none;}
+
